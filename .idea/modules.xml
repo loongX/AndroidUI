@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidUI.iml" filepath="$PROJECT_DIR$/AndroidUI.iml" />
+      <module fileurl="file://D:\Android_Workspace\Demo\AndroidUI\AndroidUI.iml" filepath="D:\Android_Workspace\Demo\AndroidUI\AndroidUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Android_Workspace\Demo\AndroidUI\app\app.iml" filepath="D:\Android_Workspace\Demo\AndroidUI\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carouselfigure/carouselfigure.iml" filepath="$PROJECT_DIR$/carouselfigure/carouselfigure.iml" />
       <module fileurl="file://$PROJECT_DIR$/timedown/timedown.iml" filepath="$PROJECT_DIR$/timedown/timedown.iml" />
+      <module fileurl="file://D:\Android_Workspace\Demo\AndroidUI\timedown\timedown.iml" filepath="D:\Android_Workspace\Demo\AndroidUI\timedown\timedown.iml" />
     </modules>
   </component>
 </project>

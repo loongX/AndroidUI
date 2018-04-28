@@ -1,1 +1,1 @@
-include ':app', ':timedown'
+include ':app', ':timedown', ':carouselfigure'
